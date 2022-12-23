@@ -1,8 +1,6 @@
 # DKeeper
 
-Welcome to your new DKeeper project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
-
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
+DKeeper is a simple notes-saving application like notes in Android or sticky notes in Windows, but this works on an Internet computer using the Motoko programming language in the back end and React in the front end.
 
 To learn more before you start working with DKeeper, see the following documentation available online:
 
